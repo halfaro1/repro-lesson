@@ -1,9 +1,10 @@
-Project title
+My Project
 
-Author name
+Author name: Hector
 
-Description... what's included in this repository, what is the purpose and 
-how do you use it?
+Description... 
+- my description here
+- description 2
 
 What other information might be important to include? 
 
